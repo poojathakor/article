@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="10px" viewBox="0 0 8 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="New-Blog" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video-page" transform="translate(-155.000000, -934.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(113.000000, 738.000000)">
+                <g id="Group-15" transform="translate(30.000000, 186.000000)">
+                    <path d="M16.8,12.0666667 L20.8,17.4 C21.1313708,17.8418278 21.0418278,18.4686292 20.6,18.8 C20.4269038,18.9298221 20.2163702,19 20,19 L12,19 C11.4477153,19 11,18.5522847 11,18 C11,17.7836298 11.0701779,17.5730962 11.2,17.4 L15.2,12.0666667 C15.5313708,11.6248389 16.1581722,11.5352958 16.6,11.8666667 C16.6758057,11.9235209 16.7431458,11.990861 16.8,12.0666667 Z" id="Triangle" transform="translate(16.000000, 15.000000) scale(1, -1) rotate(90.000000) translate(-16.000000, -15.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
